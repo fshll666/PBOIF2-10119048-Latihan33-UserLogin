@@ -36,5 +36,7 @@ public class User {
         else {
             System.out.println("Username atau Password anda salah");
         }
+        System.out.println("==========================================");
+        System.out.println("Developed by : Mochammad Faishal");
     }
 }
